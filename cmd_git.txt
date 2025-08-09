@@ -1,5 +1,19 @@
 
 
+
 Une fois git est installé, taper les commandes suivantes:
 1)cmd 1 : git -v : La version installée de git
-2)Créer un compte sur github
+2)Créer un compte sur GitHub
+3)Les commandes :
+git init : permet de créer un repo git empty
+git status : savoir l'état du repo
+git add . : permet d'ajouter les fichiers/répertoires au git pour le prochain commit
+git commit -m"votre message"
+git remote add origin https//……..
+git push -u origin master
+--
+git push
+git pull
+--
+git log : permet de consulter l'historique des commits avec détails
+git log --oneline:permet de consulter l'historique des commits réduit
