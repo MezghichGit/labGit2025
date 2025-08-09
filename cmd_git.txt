@@ -9,7 +9,7 @@ git init : permet de créer un repo git empty
 git status : savoir l'état du repo
 git add . : permet d'ajouter les fichiers/répertoires au git pour le prochain commit
 git commit -m"votre message"
-git remote add origin https//……..
+git remote add origin https://github.com/MezghichGit/labGit2025.git
 git push -u origin master
 --
 git push
@@ -17,3 +17,7 @@ git pull
 --
 git log : permet de consulter l'historique des commits avec détails
 git log --oneline:permet de consulter l'historique des commits réduit
+--
+git branch nom_branche: permet de créer des branche
+git checkout nom_branche: permet de basculer vers la branche x
+git checkout -b  test : permet de créer et basculer vers la branche tes
