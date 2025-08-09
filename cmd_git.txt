@@ -1,0 +1,5 @@
+
+
+Une fois git est installé, taper les commandes suivantes:
+1)cmd 1 : git -v : La version installée de git
+2)Créer un compte sur github
